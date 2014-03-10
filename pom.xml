@@ -13,7 +13,7 @@
     <groupId>com.github.androidlib.actionbarpulltorefresh</groupId>
     <artifactId>actionbarpulltorefresh-parent</artifactId>
     <packaging>pom</packaging>
-    <version>0.9.3</version>
+    <version>0.9.3.1</version>
 
     <name>ActionBar PullToRefresh Parent</name>
     <description>This is a fork of Chris Banes's excellent Action Bar Pull To Refresh library, migrated to Maven
