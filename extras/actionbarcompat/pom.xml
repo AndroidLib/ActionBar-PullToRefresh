@@ -7,7 +7,7 @@
     <parent>
         <groupId>com.github.androidlib.actionbarpulltorefresh</groupId>
         <artifactId>actionbarpulltorefresh-parent</artifactId>
-        <version>0.9.3</version>
+        <version>0.9.3.1</version>
         <relativePath>../../pom.xml</relativePath>
     </parent>
 
@@ -47,7 +47,7 @@
         <dependency>
             <groupId>com.github.androidlib.actionbarpulltorefresh</groupId>
             <artifactId>library</artifactId>
-            <version>0.9.3</version>
+            <version>${project.version}</version>
             <type>apklib</type>
         </dependency>
     </dependencies>
